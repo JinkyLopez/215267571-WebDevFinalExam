@@ -1,0 +1,8 @@
+section{
+    padding: 100px;
+}
+
+footer{
+    flex-wrap: wrap;
+    flex-direction: row;
+}
